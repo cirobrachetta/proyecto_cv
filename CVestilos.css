@@ -1,0 +1,62 @@
+*{
+    font-family: "roboto slab", Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 17px;
+}
+.container-fluid{
+    background-color: darkslategray;
+}
+.row{
+    background-color: darkslategray;
+}
+.col-3{
+    padding: 25px;
+    border: solid black 1px;
+    background-color: #fff;
+    margin-left: 35px;
+    margin-top: 50px;
+    margin-bottom: 166px;
+}
+.col-8{
+    padding: 25px;
+    border: solid black 1px;
+    background-color: #fff;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.botones{
+    border: solid black 1px;
+    padding-left: 78px;;
+    margin-bottom: 30px;
+    background: lightslategray;
+}
+.nombre{
+    border: solid black 1px;
+    padding-left: 172px;
+    margin-bottom: 30px;
+    background-color: lightslategray;
+}
+.b_introduccion{
+    padding: 13px;
+    padding-left: 87px;
+    padding-right: 87px;
+}
+.b_competencias{
+    padding: 13px;
+    padding-left: 77px;
+    padding-right: 78px;
+    margin-top: 19px;
+    margin-bottom: 19px; 
+}
+.b_experiencia{
+    padding: 13px;
+    padding-left: 87px;
+    padding-right: 92px;
+    margin-bottom: 20px;
+}
+.b_formacion{
+    padding: 13px;
+    padding-left: 87px;
+    padding-right: 101px;
+}
